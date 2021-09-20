@@ -20,4 +20,5 @@
 			}
 		}
 		console.log(output);
+// result: j4v4scr1pt 1s 4w3s0m3
 	</script>
